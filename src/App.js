@@ -19,6 +19,7 @@ function App() {
             path="/"
             render={() => (
               <section>
+                <h1>Michael Lopez - Redux Tutorial</h1>
                 <h2>Welcome to the Redux Essentials example app!</h2>
               </section>
             )}
